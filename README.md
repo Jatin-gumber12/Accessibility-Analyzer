@@ -1,11 +1,12 @@
 # Accessibility-Analyzer
 
 accessibility-analyzer/
+
 ├── backend/
-│   ├── controllers/
-│   │   └── scanController.js
-│   ├── models/
-│   │   └── index.js
+    ├── controllers/
+        └── scanController.js
+    ├── models/
+        └── index.js
 │   ├── routes/
 │   │   └── scanRoutes.js
 │   ├── config/
