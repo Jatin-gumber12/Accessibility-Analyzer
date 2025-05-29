@@ -3,26 +3,9 @@
 accessibility-analyzer/
 
 ├── backend/
-    ├── controllers/
-        └── scanController.js
-    ├── models/
-        └── index.js
-│   ├── routes/
-│   │   └── scanRoutes.js
-│   ├── config/
-│   │   └── dbConfig.js          # Optional: DB config here
-│   ├── server.js                # Entry point for backend
-│   ├── package.json             # Backend dependencies
-│   └── .env                     # Environment variables
+
 ├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│   ├── package.json             # Frontend dependencies
-│   └── .env                     # Proxy to backend
+                                   # Proxy to backend
 ├── start.bat                    # Script to start both frontend and backend
 ├── README.md                    # Project documentation
 ├── .gitignore                   # Ignore node_modules, .env, etc.
