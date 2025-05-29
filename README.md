@@ -1,37 +1,4 @@
-# Accessibility-Analyzer
 
-accessibility-analyzer/
-
-├── backend/
-
-├── frontend/
-                                   # Proxy to backend
-├── start.bat                    # Script to start both frontend and backend
-├── README.md                    # Project documentation
-├── .gitignore                   # Ignore node_modules, .env, etc.
-└── LICENSE                      # Optional: Add license
-Suggested .gitignore
-gitignore
-Copy
-Edit
-# Global
-node_modules/
-.env
-.DS_Store
-
-# Frontend
-frontend/build/
-
-# Logs
-*.log
-npm-debug.log*
-
-# OS
-Thumbs.db
-Suggested README.md
-markdown
-Copy
-Edit
 # Accessibility Analyzer 🔍
 
 A full-stack web app to check accessibility of websites, featuring scan history, sample URLs, and a polished UI.
